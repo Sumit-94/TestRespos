@@ -1,2 +1,2 @@
 # TestRespos
-Testing
+Testing of commit method
